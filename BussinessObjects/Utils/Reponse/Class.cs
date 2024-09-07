@@ -9,4 +9,5 @@ namespace BussinessObjects.Utils.Reponse
     internal class Class
     {
     }
+
 }
